@@ -1,6 +1,8 @@
 ES6 classes readme file
 
-![JS logo](class1.png)
+
+![class1](https://github.com/michaelabiaw/alx-backend-javascript/assets/83102581/625a8547-d83b-46c3-a64e-5758c44e7e43)
+
 Requirements
 All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 Allowed editors: vi, vim, emacs, Visual Studio Code
