@@ -1,5 +1,6 @@
 ES6 classes readme file
 
+![JS logo](class1.png)
 Requirements
 All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 Allowed editors: vi, vim, emacs, Visual Studio Code
