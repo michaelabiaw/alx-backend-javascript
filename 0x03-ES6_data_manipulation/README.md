@@ -1,6 +1,7 @@
 Readme file for data manipulation
 
-![](data m.png)
+
+![data m](https://github.com/michaelabiaw/alx-backend-javascript/assets/83102581/c23f7df7-042a-4598-80c7-f0cb924dd701)
 
 Requirements
 All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
