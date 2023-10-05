@@ -1,3 +1,6 @@
+
+![Uploading typescript.png…]()
+
 Requirements
 Allowed editors: vi, vim, emacs, Visual Studio Code
 All your files should end with a new line
